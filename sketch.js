@@ -52,7 +52,7 @@ function setup() {
 
 function draw() {
 	background("white")
-
+	Engine.update(engine);
   rectMode(CENTER);
 
   
